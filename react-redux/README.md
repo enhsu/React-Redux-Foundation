@@ -1,7 +1,10 @@
 ## Environment Stting
 
-1. `$ npx create-react-app react-redux-demo`
+1. `$ npx create-react-app demo`
 2. `$ npm i redux react-redux`
+
+## React-Redux overview
+![React-Redux overview](../assets/react-redux-overview.png)
 
 ## Libraries from npm
 
