@@ -7,7 +7,7 @@
     - [readme - Redux concept](./pure-redux-demo/README.md)
     - [source code - pure-redux-demo](./pure-redux-demo)
 - React-Redux
-    - [readme - React-Redux ](./react-redux/README.md)
+    - [readme - React-Redux ](./react-redux-demo/README.md)
     - [source code - react-redux demo](./react-redux-demo)    
 
 ## Core Library needed
@@ -21,4 +21,4 @@
 
 ## Install Redux
 
-[Reference: Redux official website](https://redux.js.org/introduction/installation)
+[link - Reference: Redux official website](https://redux.js.org/introduction/installation)
