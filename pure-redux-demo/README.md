@@ -2,8 +2,7 @@
 
 ## See demo result
 
-1. `$ cd /pure-redux/demo`
-2. `$ node index.js`
+1. `$ node ./index.js`
 
 ---
 
@@ -54,27 +53,27 @@ Implementing
 ```
 
 1. Implement Type
-    - see: [create cakeType.js](./demo/redux/cake/cakeType.js)
+    - see: [create cakeType.js](./redux/cake/cakeType.js)
     - the same concept: `iceCreamType.js` & `userType.js`
 2. Implement Action
-    - see: [create cakeAction.js](./demo/redux/cake/cakeAction.js)
+    - see: [create cakeAction.js](./redux/cake/cakeAction.js)
     - the same concept: `iceCreamAction.js` & `userAction.js`
 3. Implement Reducer
-    - see: [create cakeReducer.js](./demo/redux/cake/cakeReducer.js)
+    - see: [create cakeReducer.js](./redux/cake/cakeReducer.js)
     - the same concept: `iceCreamReducer.js` & `userReducer.js`
 4. manage all actions in redux folder
-    - see: [create index.js in redux folder](./demo/redux/index.js)
+    - see: [create index.js in redux folder](./redux/index.js)
 5. manage all reducers in redux folder
-    - see: [create rootReducer.js in redux folder](./demo/redux/rootReducer.js)
+    - see: [create rootReducer.js in redux folder](./redux/rootReducer.js)
 6. Implement Store & middleware
-    - see: [create store.js](./demo/redux/store.js)
+    - see: [create store.js](./redux/store.js)
     - NOTE: make sure import the `redux-thunk` in the store middleware for dispatching a function
 7. execute demo
-    - `$ node ./demo/index.js`
-    - see: [./demo/index.js](./demo/index.js)
+    - `$ node ./index.js`
+    - see: [./index.js](./index.js)
 ---
 - Addtion - subscribe
-    - see: [implement subscribe while execute](./demo/index.js)
+    - see: [implement subscribe while execute](./index.js)
 - Addition - Implement Async Actions Concept
     ### Actions
     1. FETCH_USERS_REQUEST - Fetch list of users

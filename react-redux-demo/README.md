@@ -1,3 +1,7 @@
+# React-Redux Demo
+
+[readme - Default create-react-app README.md](./create-react-app-readme.md)
+
 ## Environment Stting
 
 1. `$ npx create-react-app demo`
@@ -5,6 +9,7 @@
 
 ## React-Redux overview
 ![React-Redux overview](../assets/react-redux-overview.png)
+![React-Redux overview with code](../assets/react-redux-overview-with-code.png)
 
 ## Libraries from npm
 
@@ -16,8 +21,8 @@
 
 ## Tools
 
-- [Redux DevTools: Chrome extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
-- [Redux DevTools: Github usage](https://github.com/zalmoxisus/redux-devtools-extension)
+- [link - Redux DevTools: Chrome extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+- [link - Redux DevTools: Github](https://github.com/zalmoxisus/redux-devtools-extension)
 
 ## Knowledge
 
@@ -33,7 +38,7 @@
 - Logging
     - `logger`( from `redux-logger` )
     - `Redux DevTools`( Chrome extension )
-    - [Reference: Redux DevTools tutorial video](https://youtu.be/IlM7497j6LY)
+    - [link - Reference: Redux DevTools tutorial video](https://youtu.be/IlM7497j6LY)
 
 ## Steps
 
